@@ -10,7 +10,7 @@ We care more about your decisions than about how much code you write. A clean, s
 
 ## Format
 
-- **Take-home:** we suggest spending about 2 hours. Start whenever you like and spend more or less time if you want; just tell us roughly how long you spent in `DECISIONS.md`.
+- **Take-home:** please spend no more than 2 hours. Start whenever you like, and tell us roughly how long you spent in `DECISIONS.md`.
 - **Follow-up call (60 minutes):** you walk us through your pipeline, we hand you a new file to process, and you extend the pipeline live. We'll also discuss how you'd run this in production.
 
 ## AI tools
