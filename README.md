@@ -104,10 +104,10 @@ You don't need to build a dashboard.
 
 ## What to submit
 
-Copy this repository into your own **private** GitHub repository (don't fork it; forks of a public repo are public), push your work there by the date we agreed, and give us access:
+By the date we agreed, send us your work as a zip file (leave out the `data/` folder; we have it), or give us access to a private GitHub repository if you prefer (please don't fork this one, since forks of a public repo are public). Include:
 
 - Your pipeline code and SQL/dbt models.
-- Instructions to run it from a clean checkout in a few commands.
+- Instructions to run it from a fresh copy in a few commands.
 - `DECISIONS.md`: the choices you made and why. Include the grain of each analytics table and how you defined "publication date."
 - `FINDINGS.md`: what you found in the data, including any problems, how your pipeline handles them, and what you'd do with more time.
 - `AI_USAGE.md`: prompts or a usage log.
